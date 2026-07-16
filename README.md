@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malaminA03&show_icons=true&theme=radium&hide_border=true" alt="malaminA03's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaminA03&theme=radium&hide_border=true" alt="malaminA03's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdalamins20&show_icons=true&theme=radium&hide_border=true" alt="mdalamins20's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalamins20&theme=radium&hide_border=true" alt="mdalamins20's GitHub Streak" width="48%" />
 </p>
 
 ---
