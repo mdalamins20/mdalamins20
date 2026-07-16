@@ -14,10 +14,9 @@
 ### 👨‍💻 About Me
 
 - 💻 **Web & App Development:** I build scalable applications using the **MERN Stack** (MongoDB, Express, React, Node.js) and develop cross-platform mobile apps using **Flutter**.
-- ⚙️ **Software & Automation:** Experienced in building custom desktop applications and automation tools using **Python**.
+- ⚙️ **Software & Automation:** Experienced in building custom desktop applications and automation tools using **Python** & **C#**.
 - 🎨 **Creative Design:** I craft professional design solutions with a strong focus on UI/UX, utilizing **Adobe Photoshop**, **Illustrator**, and Video Editing.
 - 🐧 **System & Strategy:** Proficient in **Kali Linux**, PC hardware troubleshooting, Google AppSheet, and digital strategy management.
-- 🤖 **Interests:** In my free time, I experiment with AI content generation, explore the MCU (Marvel Cinematic Universe), and continuously tweak my development environments across Windows and Linux.
 
 ---
 
@@ -25,19 +24,28 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,flutter,python,php,laravel,firebase,linux,ps,ai" alt="Al-amin's Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,react,nodejs,express,mongodb,flutter,python,php,laravel,firebase,linux,ps,ai" alt="Al-amin's Skills" />
   </a>
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Exclusive & Commercial Projects
+*Here are some of the major projects I have developed or am currently working on. These are closed-source/commercial projects, so their source code is kept in private repositories.*
 
-* 🏢 **Mess-Mate / Mess-Manager:** A comprehensive mess management PWA built with React and Firebase to handle expense tracking and user roles.
-* 📱 **Amar Barishal:** An upcoming "Super App" for the Barishal region, featuring local data integration and custom services.
-* 🎲 **Randomix:** An offline decision-making and randomization utility app built with Flutter (featuring coin tosses, dice rollers, and team generators).
-* 🛒 **My-Ecommerce & POS Systems:** Developing e-commerce platforms (PHP/Laravel) and multi-store Point of Sale (POS) software with staff tracking and access control.
-* 💼 **Al-amin-Portfolio:** My personal portfolio showcasing my professional journey, UI components, and project architecture.
+* 🎓 **EduStream-SaaS (TypeScript):** A comprehensive Software as a Service platform built for educational institutions.
+* 🛒 **DigitalBazar (TypeScript):** A robust e-commerce platform ensuring smooth online shopping experiences.
+* 💻 **Al-amin POS (TypeScript):** A dynamic Point of Sale (POS) software for multi-store inventory and staff management.
+* 📱 **AmarBarishal (Dart/Flutter):** A regional "Super App" for the Barishal region with local data integration and custom services.
+* 📊 **Hishabio (Dart/Flutter):** A dedicated application for smart financial calculations and accounting.
+* 🍽️ **Mess-Mate (TypeScript):** An advanced mess management system for handling daily meals and expense tracking.
+* 📦 **Order-Manager & RiceManager (TypeScript):** Efficient inventory, supply chain, and order management solutions.
+* ⚽ **Burirpool-United-Club---BUC (JavaScript):** A dedicated web application for club management and community activities.
+* 📺 **IPTv (JavaScript):** A seamless IPTV streaming and management application.
+* 🖥️ **Activity Logger (C#):** A custom desktop utility for tracking activities and automating daily workflow tasks.
+* 💼 **Al-amin-Portfolio (TypeScript):** The codebase for my professional personal portfolio.
+
+*(Note: My public open-source contributions can be found in my repository section below!)*
 
 ---
 
