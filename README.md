@@ -1,22 +1,31 @@
 <h1 align="center">Hi there, I'm Muhammad Al-amin 👋</h1>
-<h3 align="center">Full-Stack Developer | Flutter Enthusiast | UI/UX Designer</h3>
+<h3 align="center">Digital Solutions Architect | Full-Stack Developer | Flutter Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/4ZtpFT0b/IMG.png" alt="Muhammad Al-amin" width="150" style="border-radius:50%;"/>
+  <a href="https://mdalamin.web.app/">
+    <img src="https://i.ibb.co.com/4ZtpFT0b/IMG.png" alt="Muhammad Al-amin" width="150" style="border-radius:50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" />
+  </a>
 </p>
 
 <p align="center">
-  I'm a passionate developer from Bangladesh, skilled in building modern web and mobile applications. I love solving problems through code, designing intuitive user experiences, and exploring new technologies.
+  I help startups and businesses build fast, modern, conversion-focused websites and mobile applications that scale effortlessly. With expertise in the <b>MERN Stack</b>, <b>Flutter</b>, and <b>Python</b>, I craft end-to-end digital solutions focused on speed, SEO, and flawless user experiences.
+</p>
+
+<p align="center">
+  <a href="https://mdalamin.web.app/" target="_blank"><b>🌐 View My Portfolio</b></a> •
+  <a href="mailto:mdalaminkhalifa2002@gmail.com"><b>✉️ Contact Me</b></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 **Web & App Development:** I build scalable applications using the **MERN Stack** (MongoDB, Express, React, Node.js) and develop cross-platform mobile apps using **Flutter**.
-- ⚙️ **Software & Automation:** Experienced in building custom desktop applications and automation tools using **Python** & **C#**.
-- 🎨 **Creative Design:** I craft professional design solutions with a strong focus on UI/UX, utilizing **Adobe Photoshop**, **Illustrator**, and Video Editing.
-- 🐧 **System & Strategy:** Proficient in **Kali Linux**, PC hardware troubleshooting, Google AppSheet, and digital strategy management.
+- 🚀 **Currently working as:** Assistant IT Department Officer at *Dewan Furniture* & Freelance Developer.
+- 💻 **Web Development:** Architecting high-performance, SEO-friendly ecosystems using **React, Next.js, Node.js, and TypeScript**.
+- 📱 **Mobile Development:** Building seamless cross-platform applications with **Flutter & Dart** (e.g., *Hishabio*, *AmarBarishal*).
+- ⚙️ **Intelligent Automation:** Developing robust desktop tools and automation scripts using **Python** & **C#**.
+- 🎨 **Creative Design & UI/UX:** Designing high-impact visual systems with **Adobe Photoshop, Illustrator, and Premiere Pro**.
+- 🐧 **System & Strategy:** Proficient in **Kali Linux**, PC hardware troubleshooting, Google AppSheet, and digital growth strategy.
 
 ---
 
@@ -24,48 +33,33 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,react,nodejs,express,mongodb,flutter,python,php,laravel,firebase,linux,ps,ai" alt="Al-amin's Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,react,nextjs,nodejs,express,mongodb,firebase,flutter,python,php,linux,ps,ai,pr&theme=dark" alt="Al-amin's Skills" />
   </a>
 </p>
 
 ---
 
-### 🚀 Exclusive & Commercial Projects
-*Here are some of the major projects I have developed or am currently working on. These are closed-source/commercial projects, so their source code is kept in private repositories.*
+### 🚀 Featured & Commercial Projects
 
-* 🎓 **EduStream-SaaS (TypeScript):** A comprehensive Software as a Service platform built for educational institutions.
-* 🛒 **DigitalBazar (TypeScript):** A robust e-commerce platform ensuring smooth online shopping experiences.
-* 💻 **Al-amin POS (TypeScript):** A dynamic Point of Sale (POS) software for multi-store inventory and staff management.
-* 📱 **AmarBarishal (Dart/Flutter):** A regional "Super App" for the Barishal region with local data integration and custom services.
-* 📊 **Hishabio (Dart/Flutter):** A dedicated application for smart financial calculations and accounting.
-* 🍽️ **Mess-Mate (TypeScript):** An advanced mess management system for handling daily meals and expense tracking.
-* 📦 **Order-Manager & RiceManager (TypeScript):** Efficient inventory, supply chain, and order management solutions.
-* ⚽ **Burirpool-United-Club---BUC (JavaScript):** A dedicated web application for club management and community activities.
-* 📺 **IPTv (JavaScript):** A seamless IPTV streaming and management application.
-* 🖥️ **Activity Logger (C#):** A custom desktop utility for tracking activities and automating daily workflow tasks.
-* 💼 **Al-amin-Portfolio (TypeScript):** The codebase for my professional personal portfolio.
+Here are some of the major projects I have architected and developed. *(Note: Some are closed-source/commercial projects kept in private repositories).*
 
-*(Note: My public open-source contributions can be found in my repository section below!)*
+* 📱 **Hishabio:** A comprehensive personal finance management mobile app built with Flutter, SQLite, and Hive.
+* 🍽️ **Mess-Mate & Rice Meal Manager:** Highly scalable real-time mess management web systems (React, TypeScript, Firebase).
+* 📑 **Order Manager Pro:** Professional production order generator featuring AI data extraction (React, TypeScript, Gemini API, jsPDF).
+* 🛒 **DigitalBazar:** A robust e-commerce platform ensuring smooth online shopping experiences.
+* ⚽ **Burirpool United Club (BUC):** High-performance web application for club management (React, Vite, Firebase, Tailwind CSS).
+* 🔍 **HandleHunt:** A lightning-fast Next.js application to check username availability across multiple social platforms.
+* 💻 **Al-amin POS:** Dynamic Point of Sale (POS) software for multi-store inventory and staff management.
+* 🎓 **EduStream-SaaS:** A comprehensive Software as a Service platform built for educational institutions.
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdalamins20&show_icons=true&theme=radium&hide_border=true" alt="mdalamins20's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalamins20&theme=radium&hide_border=true" alt="mdalamins20's GitHub Streak" width="48%" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:mdalaminkhalifa2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/8801778189644"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/mdalamins20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/mdalamins20"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/mdalamins20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/mdalamins20"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.youtube.com/@MdalaminS20"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdalamins20/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mdalamin.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/mdalamins20" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/mdalamins20" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://wa.me/8801778189644" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
