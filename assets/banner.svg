@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Muhammad Al-amin - Digital Solutions Architect">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#0B2A4A;#0D1117" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#12233A">
+        <animate attributeName="stop-color" values="#12233A;#123A5C;#12233A" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0D3B2E">
+        <animate attributeName="stop-color" values="#0D3B2E;#14532D;#0D3B2E" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#C9A227"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="none" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Floating code symbols -->
+  <g font-family="monospace" fill="#58A6FF" opacity="0.35">
+    <text x="80" y="90" font-size="42">&lt;/&gt;
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="1040" y="240" font-size="38">{ }
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 12; 0 0" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="980" y="80" font-size="30">( ) =&gt;
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="130" y="250" font-size="30">01
+      <animate attributeName="opacity" values="0.5;0.2;0.5" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Soft glow circles -->
+  <circle cx="1050" cy="60" r="90" fill="#58A6FF" opacity="0.12">
+    <animate attributeName="r" values="80;100;80" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="270" r="70" fill="#C9A227" opacity="0.10">
+    <animate attributeName="r" values="60;80;60" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <g text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif">
+    <text x="600" y="118" font-size="56" font-weight="800" fill="#FFFFFF" letter-spacing="0.5">Muhammad Al-amin</text>
+    <text x="600" y="168" font-size="24" font-weight="600" fill="#58A6FF">Digital Solutions Architect</text>
+    <text x="600" y="202" font-size="18" fill="#C9D1D9">Full-Stack (MERN) &nbsp;•&nbsp; Flutter &nbsp;•&nbsp; Automation &amp; AI Tools</text>
+    <rect x="440" y="222" width="320" height="5" rx="2.5" fill="url(#gold)">
+      <animate attributeName="width" values="120;320;120" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="540;440;540" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="600" y="268" font-size="16" fill="#8B949E">Fast &nbsp;•&nbsp; Modern &nbsp;•&nbsp; Conversion-Focused &nbsp;•&nbsp; Built to Scale</text>
+  </g>
+</svg>
