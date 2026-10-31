@@ -48,11 +48,11 @@
   <g text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif">
     <text x="600" y="118" font-size="56" font-weight="800" fill="#FFFFFF" letter-spacing="0.5">Muhammad Al-amin</text>
     <text x="600" y="168" font-size="24" font-weight="600" fill="#58A6FF">Digital Solutions Architect</text>
-    <text x="600" y="202" font-size="18" fill="#C9D1D9">Full-Stack (MERN) &nbsp;•&nbsp; Flutter &nbsp;•&nbsp; Automation &amp; AI Tools</text>
+    <text x="600" y="202" font-size="18" fill="#C9D1D9">Full-Stack (MERN)  •  Flutter  •  Automation &amp; AI Tools</text>
     <rect x="440" y="222" width="320" height="5" rx="2.5" fill="url(#gold)">
       <animate attributeName="width" values="120;320;120" dur="5s" repeatCount="indefinite"/>
       <animate attributeName="x" values="540;440;540" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="600" y="268" font-size="16" fill="#8B949E">Fast &nbsp;•&nbsp; Modern &nbsp;•&nbsp; Conversion-Focused &nbsp;•&nbsp; Built to Scale</text>
+    <text x="600" y="268" font-size="16" fill="#8B949E">Fast  •  Modern  •  Conversion-Focused  •  Built to Scale</text>
   </g>
 </svg>
