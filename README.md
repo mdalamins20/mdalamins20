@@ -98,7 +98,7 @@
 | 🌟 Project | 📝 What it does | 🛠️ Tech Stack |
 |---|---|---|
 | **[Hishabio](https://mdalamin.web.app/)** | Comprehensive personal finance mobile app for daily transactions & budgets. | Flutter, SQLite, Hive |
-| **[Mess-Mate & Rice Meal](https://mdalamin.web.app/)** | Highly scalable real-time mess & meal management web systems. | React, TypeScript, Firebase |
+| **[Mess-Mate & Rice Meal](https://github.com/mdalamins20/ricemanager)** | Highly scalable real-time mess & meal management web systems. | React, TypeScript, Firebase |
 | **[Order Manager Pro](https://mdalamin.web.app/)** | Professional production order generator featuring AI data extraction. | React, TS, Gemini API, jsPDF |
 | **[HandleHunt](https://mdalamin.web.app/)** | Lightning-fast application to check username availability across platforms. | Next.js, Tailwind CSS |
 | **[Smart Wallet App](https://mdalamin.web.app/)** | Secure digital wallet solution engineered for global store publishing. | Flutter, Dart |
