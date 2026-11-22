@@ -43,7 +43,7 @@
 
 | | |
 |---|---|
-| 🚀 **Current Role** | Assistant IT Department Officer at **Dewan Furniture** & Freelance Developer |
+| 🚀 **Current Role** | Head of IT Department at **Dewan Furniture** & Freelance Developer |
 | 💻 **Web Engineering** | Highly scalable, SEO-friendly ecosystems with **React.js, Node.js (MERN), Next.js, and TypeScript** |
 | 📱 **Mobile Development** | Seamless cross-platform experiences with **Flutter & Dart** — e.g. *Hishabio, Smart Wallet App* |
 | 🤖 **Automation & AI** | Custom desktop applications, AI automation tools (**FastAPI**), and robust scripts with **Python & C#** |
@@ -116,9 +116,6 @@
   </a>
   <a href="https://github.com/mdalamins20" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/mdalamins20" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/8801778189644" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
